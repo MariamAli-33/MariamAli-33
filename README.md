@@ -6,7 +6,7 @@
 ***Skills***
 - Machine Learning and Computer Vision (Python, OpenCV, Streamlit)
 - Web Development (ROR, Javascript, HTML, CSS, Bootstrap, Tailwindcss, MERN)
-- Database Platform: MYSQL, WapmServer, PostgressSQL, Kaggle, Cloudinary
+- Database Platform: MYSQL, WapmServer, PostgreSQL, Kaggle, Cloudinary
 - Version Control and Deployment Platform (Github/GitLab, Heroku, Netlify)
 - Object Oriented Programming
 - Java Design Patterns
