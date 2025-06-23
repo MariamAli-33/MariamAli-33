@@ -1,19 +1,19 @@
 - 👋 Hi, I am Mariam Ali, a ***Software Engineering*** graduate from SEECS, NUST
 - 👀 I’m interested in Web Development, Data Science and Machine Learning
-- 🌱 I’m currently working as Frontend and AI Developer
+- 🌱 I’m currently working as Frontend AI Developer
 - 📫 How to reach me ma.mariamali.2000@gmail.com
 - 📫 Please visit my [LinkedIn](https://www.linkedin.com/in/mariam-ali-02889423a/)
 
 ***Professional Experience***
-- AI Developer at Kounteq (Remote, UK) - Aug 2024 to Present
+- Frontend AI Developer at Kounteq (Remote, UK) - Aug 2024 to Present
 - Frontend Developer at URUSystems (Remote, Ohio) - Jan 2024 to July 2024
 - Software Engineer at Devsinc (Onsite, Islamabad) - July 2022 to Dec 2023
 
 ***Projects***
+- [***Qurk*** |  Integrated reporting platform for ERP, Accounting, E-Commerce, and CRM apps](https://qurk.app/)
 - [***Carbify Frontend*** | Dashboard for Blockchain-based web application](https://dashboard.carbify.io/)
 - [***GolzTv*** | Soccer Streaming Platform](https://golz.tv//)
 - [***Maisonette Backend -  Klaviyo and Narvar Integrations*** | E-commerce website](https://www.maisonette.com/)
-- ***Way2Pay*** | Mobile Application to allow warehouses receive payements onsite
 
 ***Certifications***
 -  Coursera - IBM Data Engineering Essentials
