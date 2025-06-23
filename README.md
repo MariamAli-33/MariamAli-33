@@ -5,7 +5,7 @@
 - 📫 Please visit my [LinkedIn](https://www.linkedin.com/in/mariam-ali-02889423a/)
 
 ***Professional Experience***
-- AI Developer at Kounteq (Remote, UK) - Aug 2024 to Present
+- Frontend AI Developer at Kounteq (Remote, UK) - Aug 2024 to Present
 - Frontend Developer at URUSystems (Remote, Ohio) - Jan 2024 to July 2024
 - Software Engineer at Devsinc (Onsite, Islamabad) - July 2022 to Dec 2023
 
