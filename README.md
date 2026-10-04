@@ -1,11 +1,11 @@
 - 👋 Hi, I am Mariam Ali, a ***Software Engineering*** graduate from SEECS, NUST
 - 👀 I’m interested in Web Development, Data Science and Machine Learning
-- 🌱 I’m currently working as Frontend AI Developer
+- 🌱 I’m currently pursuing a PhD in Computer Science at the University of Limerick.
 - 📫 How to reach me ma.mariamali.2000@gmail.com
 - 📫 Please visit my [LinkedIn](https://www.linkedin.com/in/mariam-ali-02889423a/)
 
 ***Professional Experience***
-- Frontend AI Developer at Kounteq (Remote, UK) - Aug 2024 to Present
+- Frontend AI Developer at Kounteq (Remote, UK) - Aug 2024 to Oct 2025
 - Frontend Developer at URUSystems (Remote, Ohio) - Jan 2024 to July 2024
 - Software Engineer at Devsinc (Onsite, Islamabad) - July 2022 to Dec 2023
 
