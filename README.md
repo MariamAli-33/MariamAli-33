@@ -6,8 +6,8 @@
 
 ***Professional Experience***
 - Frontend AI Developer at Kounteq (Remote, UK) - Aug 2024 to Oct 2025
-- Frontend Developer at URUSystems (Remote, Ohio) - Jan 2024 to July 2024
-- Software Engineer at Devsinc (Onsite, Islamabad) - July 2022 to Dec 2023
+- Frontend Developer at URUSystems (Remote, Pakistan) - Jan 2024 to July 2024
+- Software Engineer at Devsinc (Onsite, Pakistan) - July 2022 to Dec 2023
 
 ***Projects***
 - [***Qurk*** | Integrated reporting platform for ERP, Accounting, E-Commerce, and CRM apps](https://qurk.app/)
